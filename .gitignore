@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+selected_*.tim
+selected_*.par
+*_timing_residuals.pdf
+*_timing_residuals.png
+timing_residuals_both.pdf
+timing_residuals_both.png
